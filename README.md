@@ -1,4 +1,4 @@
-# Triển khai Web Server Nginx trên Ubuntu Serverf
+# Triển khai Web Server Nginx trên Ubuntu Server :)
 
 ## 1. Mục tiêu
 
